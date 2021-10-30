@@ -25,4 +25,4 @@ Data set comprises different size NACA 0012 airfoils at various wind tunnel spee
 4. probplot
 
 # Inference Drawn:-
-Needed to apply different regressions or poynmial features to get better accuracy, * current accuracy is 54.77% *
+Needed to apply different regressions or poynmial features to get better accuracy, **current accuracy is 54.77%**
